@@ -1,5 +1,4 @@
-**PROBLEM :
-**
+PROBLEM :
 This assignment was locked Nov 27 at 11:59pm.
 Learning Objective: the purpose of the assignment is to derive feature engineering spectrograms of wave files:
 
@@ -29,5 +28,5 @@ NASA - Audio from NASA’s Juno Mission: Europa Flyby
  
  
  
-** SOLUTION:
-** 
+ SOLUTION:
+
